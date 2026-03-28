@@ -5,7 +5,7 @@
 # Glass Smile: Stealth-Horror Level Design Breakdown
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5.6+-black?logo=unrealengine)
 ![Role](https://img.shields.io/badge/Role-Level_Designer-blue)
-![Project Type](https://img.shields.io/badge/Project-Jam_Prototype-brightgreen)
+![Project Type](https://img.shields.io/badge/Project-Prototype-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This is a short 3D first-person atmospheric horror level created for a Level Design Jam 10 by Steve Lee within one month. The player must find a way out of a haunted Japanese tea house. The focus is on spatial pacing, enemy placement, and building tension through level structure.
@@ -56,7 +56,7 @@ Each enemy is mechanically simple by design! The complexity arises not from the 
 ### Beat 04
 ![Beat6_Showcase](https://github.com/user-attachments/assets/e2b6b712-7aa8-4726-9f53-60b7587de8fe)
 
-I introduced two Oi Onna with staggered paths and timing. The player has to wait for the first to pass, then gets chased by the second. It creates a panic moment through pacing alone.
+I introduced 2 Oi Onna with staggered paths and timing. The player has to wait for the first to pass, then gets chased by the second. It creates a panic moment through pacing alone.
 
 ### Beat 06
 ![gifgit](https://github.com/user-attachments/assets/6cb7fc4f-5d8f-437d-b293-7803bc3c0bb1)
@@ -75,7 +75,7 @@ I used 3 Misume Onna. Instead of constant threat, I used placement to create rhy
 
 ## Key Takeaways
 Orthogonal design is indeed theoretical framework, but its success depends entirely on the context it lives in. This project served as a deep dive into how high-level systems theory translates into actual player experience.
-- **Systems + Context**: Orthogonal design alone doesn't create "fun." The true power of simple, decoupled mechanics is only realized when combined with intentional encounter pacing, spatial layout, and player-centric iteration.
+- **Systems + Context**: Orthogonal design alone doesn't create "fun." The true power of simple and decoupled mechanics is only realized when combined with intentional encounter pacing, spatial layout, and player-centric iteration.
 - **Simplicity is Scalable**: I learned that even the most basic mechanics feel more impactful when they are mechanically distinct. It allows for a high 'depth-to-complexity' ratio, keeping the project scope manageable without sacrificing engagement.
 - **The Power of the Pivot**: Some initial orthogonal combinations felt mathematically correct on paper but weren't playfully right. Iterating based on tester feedback was the only way to find the actual rhythm.
 
